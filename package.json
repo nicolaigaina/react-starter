@@ -1,5 +1,5 @@
 {
-  "name": "ReactStarterKit",
+  "name": "react-starter",
   "version": "1.0.0",
   "description": "ReactJs - React Starter Kit",
   "main": "index.js",
@@ -9,9 +9,9 @@
     "build:prod": "webpack -p",
     "deploy": "yarn build:prod && gh-pages -d app"
   },
-  "author": "Hossein Karami",
-  "url": "https://hosseinkarami.com",
-  "homepage": "https://HosseinKarami.github.io/React-Starter-Kit",
+  "author": "Nicolai Gaina",
+  "url": "",
+  "homepage": "",
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^7.1.4",
